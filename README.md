@@ -1,6 +1,6 @@
 # CoccoHealth AI - A Chicken Disease Classification App
 
-Welcome to the Chicken Disease Classification Project! This project focuses on utilizing machine learning techniques, specifically convolutional neural networks (CNN) and state of art models (VGG-16), to accurately classify diseases in chickens. Follow the steps below to set up the project and deploy it using Azure.
+Welcome to the Chicken Disease Classification App (CoccoHealth AI)! This app focuses on utilizing machine learning techniques, specifically convolutional neural networks (CNN) and state of art models (VGG-16), to accurately classify diseases in chickens. Follow the steps below to set up the project and deploy it using Azure.
 
 
 # How to run?
